@@ -1,0 +1,5 @@
+{
+  "automerge": true,
+  "extends": ["config:recommended"],
+  "postUpdateOptions": ["npmDedupe"]
+}
