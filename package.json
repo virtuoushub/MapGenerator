@@ -57,5 +57,28 @@
     "typescript": "^3.8.3",
     "vinyl-source-stream": "^2.0.0",
     "watchify": "^3.11.1"
+  },
+  "overrides": {
+    "assert": {
+      "@nolyfill/assert": "latest"
+    },
+    "has": {
+      "@nolyfill/has": "latest"
+    },
+    "hasown": {
+      "@nolyfill/hasown": "latest"
+    },
+    "isarray": {
+      "@nolyfill/isarray": "latest"
+    },
+    "json-stable-stringify": {
+      "@nolyfill/json-stable-stringify": "latest"
+    },
+    "object.assign": {
+      "@nolyfill/object.assign": "latest"
+    },
+    "typedarray": {
+      "@nolyfill/typedarray": "latest"
+    }
   }
 }
