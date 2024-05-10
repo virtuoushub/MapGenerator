@@ -20,11 +20,11 @@
   "dependencies": {
     "@interactjs/types": "^1.9.8",
     "@svgdotjs/svg.js": "^3.0.16",
-    "@types/d3-quadtree": "^1.0.7",
+    "@types/d3-quadtree": "^3.0.0",
     "@types/dat.gui": "^0.7.5",
     "@types/file-saver": "^2.0.1",
     "@types/jsts": "^0.17.2",
-    "d3-quadtree": "^1.0.7",
+    "d3-quadtree": "^3.0.0",
     "dat.gui": "^0.7.6",
     "file-saver": "^2.0.2",
     "interactjs": "^1.9.8",
