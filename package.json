@@ -54,7 +54,7 @@
     "gulp-notify": "^3.2.0",
     "gulp-typescript": "^6.0.0-alpha.1",
     "tsify": "^4.0.1",
-    "typescript": "^3.8.3",
+    "typescript": "^5.0.0",
     "vinyl-source-stream": "^2.0.0",
     "watchify": "^3.11.1"
   },
